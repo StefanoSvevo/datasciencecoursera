@@ -6,4 +6,3 @@ The following is an unordered list:
 * Another item
 * Yet another item
 
-xs
